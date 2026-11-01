@@ -1,0 +1,85 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "schema_version": 1,
+  "instructions": "Edit any line_number, destination, display_text, color, and stops value. Keep line_number unique. These are starter examples; replace them with your own routes.",
+  "routes": [
+    {
+      "id": "route_1",
+      "line_number": "1",
+      "destination": "Centralstationen",
+      "display_text": "1  CENTRALSTATIONEN",
+      "color": "#1769AA",
+      "stops": [
+        "Depå",
+        "Stadshuset",
+        "Centrum",
+        "Centralstationen"
+      ]
+    },
+    {
+      "id": "route_2",
+      "line_number": "2",
+      "destination": "Sjukhuset",
+      "display_text": "2  SJUKHUSET",
+      "color": "#16845B",
+      "stops": [
+        "Depå",
+        "Sporthallen",
+        "Biblioteket",
+        "Sjukhuset"
+      ]
+    },
+    {
+      "id": "route_3",
+      "line_number": "3",
+      "destination": "Hamnterminalen",
+      "display_text": "3  HAMNTERMINALEN",
+      "color": "#B34B32",
+      "stops": [
+        "Depå",
+        "Gamla torget",
+        "Resecentrum",
+        "Hamnterminalen"
+      ]
+    },
+    {
+      "id": "route_4",
+      "line_number": "4",
+      "destination": "Universitetet",
+      "display_text": "4  UNIVERSITETET",
+      "color": "#7B4BAA",
+      "stops": [
+        "Depå",
+        "Parkvägen",
+        "Teknikparken",
+        "Universitetet"
+      ]
+    },
+    {
+      "id": "route_5",
+      "line_number": "5",
+      "destination": "Flygplatsen",
+      "display_text": "5  FLYGPLATSEN",
+      "color": "#B07816",
+      "stops": [
+        "Depå",
+        "Köpcentrum",
+        "Norra industriområdet",
+        "Flygplatsen"
+      ]
+    },
+    {
+      "id": "route_6",
+      "line_number": "6",
+      "destination": "Äventyrsbadet",
+      "display_text": "6  ÄVENTYRSBADET",
+      "color": "#147F91",
+      "stops": [
+        "Depå",
+        "Södra torget",
+        "Idrottsplatsen",
+        "Äventyrsbadet"
+      ]
+    }
+  ]
+}
