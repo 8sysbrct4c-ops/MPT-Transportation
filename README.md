@@ -19,6 +19,10 @@ A Minecraft Bedrock Edition public-transportation add-on project.
 
 Minecraft Bedrock Edition **26.52** (target; compatibility has not yet been verified in-game).
 
+## Custom routes
+
+Six editable example bus lines (1–6) are defined in `config/routes.json`. See `docs/CUSTOM_ROUTES.md` to change numbers, destinations, colours and stop lists.
+
 ## Pack layout
 
 - `behavior_pack/` — entity behavior, spawn rules and gameplay data.
