@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "MPT Transportation RP",
+    "description": "Resources for MPT public transportation.",
+    "uuid": "3c8f1a35-5e01-4d6f-a01b-8f5a7c2d3e13",
+    "version": [
+      0,
+      1,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      21,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "4d9a2b46-6f12-4e70-b12c-9a6b8d3e4f14",
+      "version": [
+        0,
+        1,
+        0
+      ]
+    }
+  ]
+}
